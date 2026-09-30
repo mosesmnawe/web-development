@@ -1,0 +1,40 @@
+h1 {
+  color: blue;
+}
+.my-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+#my-paragraph-id {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+}
+div {
+           display: flex;
+           flex-direction: row;
+           justify-content: space-between;
+           align-items: center;
+           gap: 12px;
+        }
+h1 p {
+  color: rgb(0, 255, 42);
+}
+section p {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+section p {
+  margin-bottom: 10px;
+  font-weight: 14px;
+}
+button {
+  background-color: #af4c82;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
